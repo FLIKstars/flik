@@ -1,0 +1,15 @@
+{
+  "name": "flik-admin-app",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.1.1",
+    "modernizr": "~2.6.2",
+    "requirejs": "~2.1.11",
+    "jquery": "~1.11.0"
+  },
+  "devDependencies": {
+    "d3": "~3.4.13",
+    "lazyload": "vvo/lazyload#~2.1.3",
+    "viewportSize": "tysonmatanich/viewportSize"
+  }
+}
